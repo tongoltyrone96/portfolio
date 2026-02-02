@@ -162,7 +162,7 @@ export default function Home() {
                 </a>
                 <a
                   className="underline"
-                  href="https://github.com/saleor/saleor"
+                  href="https://github.com/tongoltyrone96/saleor"
                   target="_blank"
                 >
                   GitHub Repository
@@ -221,7 +221,7 @@ export default function Home() {
                 </a>
                 <a
                   className="underline"
-                  href="https://github.com/USERNAME/anor-ecommerce"
+                  href="https://github.com/tongoltyrone96/anor"
                   target="_blank"
                 >
                   GitHub Repository
@@ -279,7 +279,7 @@ export default function Home() {
                 </a>
                 <a
                   className="underline"
-                  href="https://github.com/spree/spree"
+                  href="https://github.com/tongoltyrone96/spree"
                   target="_blank"
                 >
                   GitHub Repository
@@ -341,8 +341,8 @@ export default function Home() {
         <h2 className="text-3xl font-semibold mb-6">Contact</h2>
         <div className="flex gap-6">
           <a href="tongoltyrone84@gmail.com"><Mail /></a>
-          <a href="#"><Github /></a>
-          <a href="#"><Linkedin /></a>
+          <a href="https://github.com/tongoltyrone96"><Github /></a>
+          <a href="https://www.linkedin.com/in/tyrone-jher-tongol-98626a3a9/"><Linkedin /></a>
         </div>
       </section>
 
